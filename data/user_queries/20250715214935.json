@@ -1,0 +1,9 @@
+{
+  "prompt": "Write a social media post for our new product 'mdbc' launch",
+  "parameters": {
+    "content_type": "social_media",
+    "length": "short",
+    "include_cta": false
+  },
+  "timestamp": "2025-07-15T21:49:35.096585"
+}

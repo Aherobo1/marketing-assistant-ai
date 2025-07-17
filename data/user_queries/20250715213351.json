@@ -1,0 +1,9 @@
+{
+  "prompt": "Generate an email campaign for a product launch",
+  "parameters": {
+    "content_type": "email",
+    "length": "short",
+    "include_cta": false
+  },
+  "timestamp": "2025-07-15T21:33:51.733355"
+}

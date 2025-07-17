@@ -1,0 +1,9 @@
+{
+  "prompt": "write an article on CLI",
+  "parameters": {
+    "content_type": "blog_post",
+    "length": "short",
+    "include_cta": false
+  },
+  "timestamp": "2025-07-15T23:59:29.434132"
+}

@@ -1,0 +1,9 @@
+{
+  "prompt": "Write an email to ceo about new product called 'MDBC'",
+  "parameters": {
+    "content_type": "email",
+    "length": "short",
+    "include_cta": false
+  },
+  "timestamp": "2025-07-15T22:14:56.865372"
+}

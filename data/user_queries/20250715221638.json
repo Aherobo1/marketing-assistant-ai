@@ -1,0 +1,9 @@
+{
+  "prompt": "Write a social media post for our new product launch called 'techGO'",
+  "parameters": {
+    "content_type": "social_media",
+    "length": "short",
+    "include_cta": true
+  },
+  "timestamp": "2025-07-15T22:16:38.682814"
+}

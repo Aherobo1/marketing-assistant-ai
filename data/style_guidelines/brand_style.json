@@ -1,0 +1,38 @@
+{
+  "tone": [
+    "professional",
+    "friendly",
+    "inspirational",
+    "empowering"
+  ],
+  "voice_characteristics": [
+    "clear",
+    "direct",
+    "empowering",
+    "confident",
+    "authentic",
+    "innovative"
+  ],
+  "writing_patterns": [
+    "direct commands",
+    "personal pronouns",
+    "repetitive rhythms",
+    "empowering phrases"
+  ],
+  "taboo_words": [
+    "cheap",
+    "discount",
+    "bargain",
+    "failure",
+    "impossible",
+    "difficult"
+  ],
+  "preferred_terms": {
+    "customers": "clients",
+    "products": "solutions",
+    "problems": "challenges",
+    "services": "experiences",
+    "training": "transformation"
+  },
+  "brand_name": "Adriana James"
+}

@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+httpx
+faiss-cpu
+numpy==1.26.2
+pandas
+cohere
+python-multipart
+SQLAlchemy
+databases
+aiosqlite
+loguru
+tenacity
