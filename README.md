@@ -43,7 +43,7 @@ The Marketing Assistant AI combines a powerful backend built with FastAPI and a 
 1. **Clone the repository**
 
 ```bash
-git clone http://23.29.118.76:3000/task/marketing-assistant-ai.git
+git clone https://github.com/Aherobo1/marketing-assistant-ai.git
 cd marketing-assistant-ai
 ```
 
